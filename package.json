@@ -34,6 +34,7 @@
         "type": "git",
         "url": "https://github.com/miloraddjordjevic95/Box-Shadow-Generator.git"
     },
+    "homepage": "https://github.com/miloraddjordjevic95/Box-Shadow-Generator.git",
     "activationEvents": [
         "onCommand:boxShadowGenerator.start"
     ],
