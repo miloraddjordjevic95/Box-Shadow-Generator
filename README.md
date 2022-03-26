@@ -12,7 +12,7 @@ Generate CSS property "box-shadow" values from a simple GUI.
 
 ## Usage
 
-1. Open the command palette (Ctrl+Shift+P on Windows and Linux, Cmd+Shift+P on OS X) and search for "Box Shadow
+1. Open the command palette (Ctrl+Shift+P on Windows and Linux, Cmd+Shift+P on Mac OS) and search for "Box Shadow
    Generator"
 
 2. Generate the values from the GUI
