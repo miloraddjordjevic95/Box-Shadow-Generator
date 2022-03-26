@@ -26,10 +26,6 @@
         "Other"
     ],
     "icon": "files/icon.png",
-    "galleryBanner": {
-        "color": "#007AFF",
-        "theme": "dark"
-    },
     "repository": {
         "type": "git",
         "url": "https://github.com/miloraddjordjevic95/Box-Shadow-Generator.git"

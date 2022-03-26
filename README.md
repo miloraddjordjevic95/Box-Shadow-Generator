@@ -12,7 +12,7 @@ Generate CSS property "box-shadow" values from a simple GUI.
 
 ## Usage
 
-1. Open the command palette (Ctrl+Shift+P on Windows and Linux, Cmd+Shift+P on Mac OS) and search for "Box Shadow
+1. Open the command palette (Ctrl+Shift+P on Windows and Linux, Cmd+Shift+P on OS X) and search for "Box Shadow
    Generator"
 
 2. Generate the values from the GUI
@@ -21,7 +21,7 @@ Generate CSS property "box-shadow" values from a simple GUI.
 
 ## Contributing
 
-The source for this extension is available on [github](https://github.com/miloraddjordjevic95/Box-Shadow-Generator.git).
+The source for this extension is available on [GitHub](https://github.com/miloraddjordjevic95/Box-Shadow-Generator.git).
 Contributions are extremely welcome! If anyone feels that there is something missing or would like to suggest
 improvements please [open a new issue](https://github.com/miloraddjordjevic95/Box-Shadow-Generator/issues) or send a
 pull request!
