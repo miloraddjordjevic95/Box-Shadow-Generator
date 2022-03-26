@@ -1,0 +1,68 @@
+{
+    "name": "vscode-box-shadow-generator",
+    "displayName": "Box Shadow Generator",
+    "description": "Box Shadow Generator is a Visual Studio Code extension that makes it easier to work with the CSS 'box-shadow' property.",
+    "version": "1.0.0",
+    "publisher": "Milorad Djordjevic",
+    "license": "MIT",
+    "author": {
+        "name": "Milorad Djordjevic"
+    },
+    "keywords": [
+        "Box",
+        "Shadow",
+        "Generator",
+        "Box Shadow Generator",
+        "CSS",
+        "SCSS",
+        "SASS",
+        "LESS"
+    ],
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Other"
+    ],
+    "icon": "./files/icon.png",
+    "galleryBanner": {
+        "color": "#007AFF",
+        "theme": "dark"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/miloraddjordjevic95/Box-Shadow-Generator.git"
+    },
+    "activationEvents": [
+        "onCommand:boxShadowGenerator.start"
+    ],
+    "main": "./extension.js",
+    "contributes": {
+        "commands": [
+            {
+                "command": "boxShadowGenerator.start",
+                "title": "Box Shadow Generator"
+            }
+        ]
+    },
+    "scripts": {
+        "lint": "eslint .",
+        "pretest": "npm run lint",
+        "test": "node ./test/runTest.js"
+    },
+    "devDependencies": {
+        "@types/glob": "^7.2.0",
+        "@types/mocha": "^9.1.0",
+        "@types/node": "14.x",
+        "@types/vscode": "^1.65.0",
+        "@vscode/test-electron": "^2.1.2",
+        "eslint": "^8.9.0",
+        "glob": "^7.2.0",
+        "mocha": "^9.2.1",
+        "typescript": "^4.5.5"
+    },
+    "dependencies": {
+        "path": "^0.12.7",
+        "vscode": "^1.1.37"
+    }
+}
