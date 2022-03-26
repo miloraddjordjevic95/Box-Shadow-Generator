@@ -3,7 +3,7 @@
     "displayName": "Box Shadow Generator",
     "description": "Box Shadow Generator is a Visual Studio Code extension that makes it easier to work with the CSS 'box-shadow' property.",
     "version": "1.0.0",
-    "publisher": "Milorad Djordjevic",
+    "publisher": "miloraddjordjevic95",
     "license": "MIT",
     "author": {
         "name": "Milorad Djordjevic"
