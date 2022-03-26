@@ -21,11 +21,11 @@ Generate CSS property "box-shadow" values from a simple GUI.
 
 ## Contributing
 
-The source for this extension is available on [a valid
-link]github(<https://github.com/miloraddjordjevic95/Box-Shadow-Generator.git>). Contributions are extremely welcome! If
-anyone feels that there is something missing or would like to suggest improvements please [a valid link]open a new
-issue(<https://github.com/miloraddjordjevic95/Box-Shadow-Generator/issues>) or send a pull request!
+The source for this extension is available on [github](https://github.com/miloraddjordjevic95/Box-Shadow-Generator.git).
+Contributions are extremely welcome! If anyone feels that there is something missing or would like to suggest
+improvements please [open a new issue](https://github.com/miloraddjordjevic95/Box-Shadow-Generator/issues) or send a
+pull request!
 
 ## License
 
-[a valid link]MIT(<https://opensource.org/licenses/MIT>)
+[MIT](https://opensource.org/licenses/MIT)
