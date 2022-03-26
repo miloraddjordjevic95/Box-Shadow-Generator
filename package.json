@@ -25,7 +25,7 @@
     "categories": [
         "Other"
     ],
-    "icon": "/files/icon.png",
+    "icon": "files/icon.png",
     "galleryBanner": {
         "color": "#007AFF",
         "theme": "dark"
